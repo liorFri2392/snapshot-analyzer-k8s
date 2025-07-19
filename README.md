@@ -1,6 +1,6 @@
 ### What is this
 
-This analyzer accept a snapshot uploaded and provides an OpenLense like interface to explore the snapshot locally.
+This analyzer accept a k8s cluster snapshot uploaded and provides an OpenLense like interface to explore the snapshot locally.
 
 ### Tech 
 It was created with Python as a backend and React as a frontend. So to run it you will have to have both installed. Please refer to relevant documentation on how to get yourself going with Python and React.
