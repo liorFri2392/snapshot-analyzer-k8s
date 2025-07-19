@@ -1,0 +1,16 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+httpx==0.25.1
+pyyaml==6.0.1
+requests==2.31.0
+python-multipart>=0.0.6
+pydantic>=2.5.2
+google-cloud-storage>=2.14.0
+google-auth>=2.27.0
+python-dotenv>=1.0.0
+typing-extensions>=4.9.0
+starlette>=0.27.0,<0.28.0
+python-jose==3.3.0
+passlib==1.7.4
+bcrypt==4.0.1
+python-dateutil==2.8.2

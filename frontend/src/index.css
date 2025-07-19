@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.subtable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.subtable th, .subtable td {
+  border: 1px solid #ddd;
+  padding: 4px;
+  font-size: 0.9em;
+}
+

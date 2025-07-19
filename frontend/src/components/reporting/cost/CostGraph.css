@@ -1,0 +1,23 @@
+.cost-graph {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+}
+
+.cost-graph .js-plotly-plot {
+    width: 100% !important;
+    height: 600px !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .cost-graph {
+        padding: 10px;
+    }
+    
+    .cost-graph .js-plotly-plot {
+        height: 400px !important;
+    }
+} 
